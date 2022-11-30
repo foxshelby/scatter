@@ -10,7 +10,6 @@ import java.util.TimerTask;
  * @Author:zdd
  * @Date： 2022/11/30 8:58
  */
-@Component
 public class Server {
 
     private CallBack iCallBack;

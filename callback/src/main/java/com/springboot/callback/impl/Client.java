@@ -6,7 +6,6 @@ import org.springframework.stereotype.Component;
  * @Author:zdd
  * @Date： 2022/11/30 8:57
  */
-@Component
 public class Client implements CallBack{
 
 
